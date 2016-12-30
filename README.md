@@ -2,8 +2,8 @@
 Extra custom "Make Your Own" questions for Quiplash2 (Developed by Jackbox Games, Inc. Game and Software ©2016 Jackbox Games, Inc. All rights reserved.)
 
 ### Current Support
-- [x] French (fr_FR)
-- [ ] English (en_US)
+- [x] French (fr_FR) - [Quiplash XL](https://www.trueachievements.com/a208499/quiplash-xl-back-talk-achievement), [Cards Against Humanity](http://s3.amazonaws.com/cah/CAH_FrenchByCluchier.pdf)
+- [x] English (en_US) - [Quiplash XL](https://www.trueachievements.com/a208499/quiplash-xl-back-talk-achievement)  
 ...
 
 ### Bookmarklet
