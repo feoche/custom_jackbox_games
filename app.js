@@ -3,7 +3,7 @@ function getJSON(url, callback) {const xhr = new XMLHttpRequest();xhr.open("get"
 let game = $('.page')[0].className.match('drawful') ? `drawful2`: `quiplash2`;
 let lang = "fr" || "en";
 let trad = [];
-getJSON(`https://feoche.github.io/custom_jackbox_games/${game}/${lang}.json`, (err, data) => {
+getJSON(`https://raw.githubusercontent.com/feoche/custom_jackbox_games/master/${game}/${lang}.json`, (err, data) => {
     if (err != null) {
         console.error(`Something went wrong: ${err}`);
     } else {
